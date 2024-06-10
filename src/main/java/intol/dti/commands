@@ -1,0 +1,2 @@
+smartrun.cmd intol.dti.DTIServer 0
+smartrun.cmd intol.dti.DTInteractiveClient 4
